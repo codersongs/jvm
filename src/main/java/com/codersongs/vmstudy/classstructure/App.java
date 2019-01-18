@@ -1,4 +1,4 @@
-package com.codersongs;
+package com.codersongs.vmstudy.classstructure;
 
 /**
  * Hello world!

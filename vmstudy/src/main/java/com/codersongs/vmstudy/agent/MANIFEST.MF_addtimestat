@@ -1,0 +1,5 @@
+Manifest-Version: 1.0 
+Agent-Class: com.codersongs.vmstudy.agent.PreMainAddTimeStatAgent
+Premain-Class: com.codersongs.vmstudy.agent.PreMainAddTimeStatAgent
+Can-Redine-Classes: true
+Can-Retransform-Classes: true 

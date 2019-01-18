@@ -1,4 +1,4 @@
-package com.codersongs;
+package com.codersongs.vmstudy.classstructure;
 
 import static org.junit.Assert.assertTrue;
 
